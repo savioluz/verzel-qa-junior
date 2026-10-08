@@ -67,7 +67,7 @@ Os prints manuais são de execuções anteriores. Os resultados automatizados s�
 
 ## Uso de IA
 
-Utilizei inteligência artificial como apoio na organização da documentação e estruturação dos testes. Os resultados devem ser conferidos antes da entrega.
+Utilizei inteligência artificial como apoio na organização da documentação e estruturação dos testes, auxilio na ferramenta "Playwright" com uso de suas funções, no aprendizado, conceito e boas praticas do "Gherkin" e na sugestao de entrega dos testes manuais. (Admito ser uma area que passei a estudar e entender melhor e devido a isso deixei muitos comentarios nos codigos)
 
 ## Autor
 
